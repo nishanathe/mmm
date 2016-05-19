@@ -5,10 +5,10 @@
         id        = “au.edu.vic.marcellin.marcellinmobile"
         versionCode = "2016"
         version   = "1.0.0">
-    <name>MyMarcellinMobile</name>
+    <name>Marcellin</name>
 
     <description>
-        MyMarcellin College Mobile
+        MyMarcellin Mobile 
     </description>
 
     <author href="http://marcellin.vic.edu.au" email="it.marcellin.college@gmail.com">
